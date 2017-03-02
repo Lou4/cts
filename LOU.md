@@ -12,3 +12,9 @@ Read the following piece of pseudo-code:
 5  else
 6    intall LINUX
 7    goto 1
+
+
+
+
+
+But first of all ..... start from the first commit man ....
